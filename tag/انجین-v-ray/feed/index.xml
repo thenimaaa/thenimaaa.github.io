@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>انجین V-ray &#8211; ورتکس دیزاین</title>
+	<atom:link href="/tag/%D8%A7%D9%86%D8%AC%DB%8C%D9%86-v-ray/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>نقطه‌ی اوج طراحی</description>
+	<lastBuildDate>Fri, 17 Dec 2021 08:58:15 +0000</lastBuildDate>
+	<language>fa-IR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.11</generator>
+	<item>
+		<title>موتور رندر کرونا بهتره یا ویری؟ مقایسه‌ی رندرهای داخلی</title>
+		<link>/%d8%a7%d9%86%d8%ac%db%8c%d9%86%e2%80%8c%d9%87%d8%a7/%d9%85%d9%88%d8%aa%d9%88%d8%b1-%d8%b1%d9%86%d8%af%d8%b1-%da%a9%d8%b1%d9%88%d9%86%d8%a7-%d8%a8%d9%87%d8%aa%d8%b1%d9%87-%db%8c%d8%a7-%d9%88%db%8c%d8%b1%db%8c%d8%9f/</link>
+					<comments>/%d8%a7%d9%86%d8%ac%db%8c%d9%86%e2%80%8c%d9%87%d8%a7/%d9%85%d9%88%d8%aa%d9%88%d8%b1-%d8%b1%d9%86%d8%af%d8%b1-%da%a9%d8%b1%d9%88%d9%86%d8%a7-%d8%a8%d9%87%d8%aa%d8%b1%d9%87-%db%8c%d8%a7-%d9%88%db%8c%d8%b1%db%8c%d8%9f/?#respond</comments>
+		
+		<dc:creator><![CDATA[TheNima]]></dc:creator>
+		<pubDate>Wed, 06 Nov 2019 04:59:18 +0000</pubDate>
+				<category><![CDATA[انجین‌ها]]></category>
+		<category><![CDATA[انجین Corona]]></category>
+		<category><![CDATA[انجین V-ray]]></category>
+		<category><![CDATA[بهترین موتور رندر]]></category>
+		<category><![CDATA[سینما 4d]]></category>
+		<category><![CDATA[کرونا یا ویری]]></category>
+		<category><![CDATA[مقایسه کرونا و ویری]]></category>
+		<category><![CDATA[موتور رندر کرونا بهتره یا ویری]]></category>
+		<category><![CDATA[وی ری یا کرونا؟]]></category>
+		<guid isPermaLink="false">/?p=5826</guid>
+
+					<description><![CDATA[<p>The post <a rel="nofollow" href="/%d8%a7%d9%86%d8%ac%db%8c%d9%86%e2%80%8c%d9%87%d8%a7/%d9%85%d9%88%d8%aa%d9%88%d8%b1-%d8%b1%d9%86%d8%af%d8%b1-%da%a9%d8%b1%d9%88%d9%86%d8%a7-%d8%a8%d9%87%d8%aa%d8%b1%d9%87-%db%8c%d8%a7-%d9%88%db%8c%d8%b1%db%8c%d8%9f/">موتور رندر کرونا بهتره یا ویری؟ مقایسه‌ی رندرهای داخلی</a> appeared first on <a rel="nofollow" href="/">ورتکس دیزاین</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p style="text-align: justify;">کرونا بهتره یا ویری؟ این سوال معمولاً برای کسایی که به تازگی تصمیم گرفتن که طراحی کردن و رندر گرفتن رو یاد بگیرن پیش میاد، توی این پست، از نتیجه‌ی مقایسه‌ی <a href="https://www.antoniobosi.com/render-tests-comparisons-benchmarks/vray-vs-corona-render-interior" target="_blank" rel="noopener noreferrer">آنتونیو بوسی</a>، آرتیست ایتالیایی استفاده شده، این مقایسه با وجود حجم کم، تقریباً همه‌ی جنبه‌های لازم رو در نظر گرفته. رقبای قدرتمندی واسه تصاحب تاج پادشاهی انجینای رندر واسه کارای معماری وجود داره، به نظر می‌رسه که ویری داره بعضی از کاربراش رو به کرونا می‌بازه، نتیجه‌ی موفقیت کرونا چی می‌تونه باشه؟</p>
+<p style="text-align: justify;"><span id="more-5826"></span></p>
+<p style="text-align: justify;">انجین کرونا تو سال 2017 سروصدای زیادی به پا کرد، کرونا حاصل یه پروژه دانشجویی تو جمهوری چکه، خیلی از کاربرای موتورای دیگه به انجین کرونا مهاجرت کردن، علتش سادگی و رندرای واقع‌گرایانه‌ای بود که می‌شد با زحمت کمتری نسبت به موتورای دیگه گرفت، یکی دو سالی هست که کمپانی سازنده کرونا یعنی <span class="st">Render Legion با Chaos Group ادغام شده، حاصل و نتیجه‌ی این همکاری می‌تونه فوق‌العاده باشه.</span></p>
+<h2 style="text-align: justify;"><strong>کرونا:</strong></h2>
+<p style="text-align: justify;">موتور کرونا یه رندر با سیستم سایه‌زنی فیزیکی بهمون تحویل می‌ده، در حال حاضر، کرونا کاملا با Autodesk 3ds Max و Cinema 4D سازگاره. موتور کرونا تو سال 2012 به عنوان یه موتور رندر سی‌پی‌یو بیس خودش رو به دنیا معرفی کرد، کرونا از دو حالت رندر Unbiased path tracing و Biased UHD cache برای ایجاد یه رندر سریع والبته با GI دقیق استفاده می‌کنه. کرونا یه فریم‌بافر مستقل داره که می‌شه واسه رسیدن به یه رندر طبیعی پارامتراش رو دست‌کاری و تنطیم کرد. جالبه که بدونید کرونا به صورت Progressive رندر می‌گیره، البته همینم باعث می‌شه که توی رندرا نویز هم دیده بشه که با دینویزری که همراه کرونا هست می‌شه نویزها رو تا حدودی از بین برد. رابط کاربری و منطق کرونا شباهت زیادی با Maxell Render معروف داره.</p>
+<h2 data-local-attribute="d3bn" data-attrid="title" data-ved="0ahUKEwjM-c384NTlAhUlpnEKHZdIBhsQ3B0IrwIoATAj" style="text-align: justify;">ویری:</h2>
+<p style="text-align: justify;">احتمالا ویری معروف‌ترین و پراستفاده‌ترین موتور رندر دنیاس، توسط شرکت Chaos Group بلغارستانی توسعه داده شده، کیس گروپ تو سال 1997 تاسیس شده. ویری توی صنعتای زیادی مثل رسانه، سرگرمی، طراحی صنعتی، فیلم و انیمیشن، بازیای ویدیویی و طراحی معماری و خیلی زمینه‌های دیگه استفاده می‌شه. ویری از الگوریتم مرسوم ردیابی‌ پرتو پیش فرض &#8211; خطادار واسه Global illumination, Photon mapping و از الگوریتم بدون پیش فرض &#8211; بدون خطا واسه Brute Force استفاده می‌کنه. ویری به لطف کدنویسی فوق‌العاده‌ش تقریباً توسط هر نرم‌افزاری پشتیبانی می‌شه، ویری موتور رندر با پردازنده‌ی گرافیکی خودش رو هم داره.</p>
+<h2 style="text-align: justify;">تست:</h2>
+<p style="text-align: justify;">توی این مقایسه سعی شده کلیّت صحنه و نورپردازی ساده نگه داشته بشه که تعداد فاکتورای تاثیرگذار کم باشه، سعی شده موقعیت و شدت نورها مشابه باشه ولی خب یه نکته رو باید بگم، درک دو انجین در مورد نور یکسان نیست، نکته‌ی دیگه اینه که پرسپکتیو توی دو رندر کمی متفاوته چون دو صحنه‌ی جدا هستن و این‌که هیچ پست‌پروداکشنی روی رندرا انجام نشده، در این‌جا می‌خوایم با مقایسه‌ی این دو رندر نمونه، جوابی برای سوال «کرونا بهتره یا ویری؟» پیدا کنیم.</p>
+<p style="text-align: justify;">مشخصات انجین‌ها و کامپیوتری که توسطش رندر گرفته شده:</p>
+<p style="text-align: justify;">V-ray 3.4, Corona Render 1.5</p>
+<p style="text-align: justify;">CPU I7 2600k @ 4.4GHz, 32GB DDR3, Nvidia GTX 1060 6GB, SSD 500gb. Win 10 pro 64 bit</p>
+<figure id="attachment_5875" aria-describedby="caption-attachment-5875" style="width: 1024px" class="wp-caption alignnone"><img src="/wp-content/uploads/2019/11/corona-vs-vray-interior-render-1024x683.jpg" alt="نمونه رندر کرونا" class="wp-image-5875 size-large" width="1024" height="683" srcset="/wp-content/uploads/2019/11/corona-vs-vray-interior-render-1024x683.jpg 1024w, /wp-content/uploads/2019/11/corona-vs-vray-interior-render-300x200.jpg 300w, /wp-content/uploads/2019/11/corona-vs-vray-interior-render-768x512.jpg 768w, /wp-content/uploads/2019/11/corona-vs-vray-interior-render-870x580.jpg 870w, /wp-content/uploads/2019/11/corona-vs-vray-interior-render-600x400.jpg 600w, /wp-content/uploads/2019/11/corona-vs-vray-interior-render-480x320.jpg 480w, /wp-content/uploads/2019/11/corona-vs-vray-interior-render-570x380.jpg 570w, /wp-content/uploads/2019/11/corona-vs-vray-interior-render.jpg 1170w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption id="caption-attachment-5875" class="wp-caption-text">نمونه رندر کرونا</figcaption></figure>
+<figure id="attachment_5874" aria-describedby="caption-attachment-5874" style="width: 1024px" class="wp-caption alignnone"><img src="/wp-content/uploads/2019/11/vray-vs-corona-interior-render-1024x683.jpg" alt="نمونه رندر ویری" class="wp-image-5874 size-large" width="1024" height="683" srcset="/wp-content/uploads/2019/11/vray-vs-corona-interior-render-1024x683.jpg 1024w, /wp-content/uploads/2019/11/vray-vs-corona-interior-render-300x200.jpg 300w, /wp-content/uploads/2019/11/vray-vs-corona-interior-render-768x512.jpg 768w, /wp-content/uploads/2019/11/vray-vs-corona-interior-render-870x580.jpg 870w, /wp-content/uploads/2019/11/vray-vs-corona-interior-render-600x400.jpg 600w, /wp-content/uploads/2019/11/vray-vs-corona-interior-render-480x320.jpg 480w, /wp-content/uploads/2019/11/vray-vs-corona-interior-render-570x380.jpg 570w, /wp-content/uploads/2019/11/vray-vs-corona-interior-render.jpg 1170w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption id="caption-attachment-5874" class="wp-caption-text">نمونه رندر ویری</figcaption></figure>
+<p style="text-align: justify;">در نگاه اول تفاوتی دیده نمی‌شه، با استفاده از Tone mapper (تون مپینگ: از این تکنیک برای تنظیم رنگ‌ها و کنتراست استفاده می‌شه) کرونا به راحتی می‌شه بخش‌های که اصطلاحاً سوخته (اور اکسپوزد) یا جاهایی که سایه‌ها بد شدن رو اصلاح کرد، همه‌ی این‌ها در حالیه که باعث از بین رفتن تضاد رنگ‌ها نمی‌شه. آسمون کرونا نور اشباع‌تری رو نسبت آسمون ویری ساطع می‌کنه. بیاید یه نگاه دقیق‌تر واسه دیدن <span class="st"><span dir="rtl">جزئیات </span></span>داشته باشیم.</p>
+<h2 style="text-align: justify;"><span class="st"><span dir="rtl">جزئیات</span></span>:</h2>
+<p><img src="/wp-content/uploads/2019/11/corona-vs-vray-interior-render-details.jpg" alt="بررسی دقیق‌تر نمونه رندر کرونا" class="wp-image-5940 size-full" width="900" height="246" srcset="/wp-content/uploads/2019/11/corona-vs-vray-interior-render-details.jpg 900w, /wp-content/uploads/2019/11/corona-vs-vray-interior-render-details-300x82.jpg 300w, /wp-content/uploads/2019/11/corona-vs-vray-interior-render-details-768x210.jpg 768w, /wp-content/uploads/2019/11/corona-vs-vray-interior-render-details-870x238.jpg 870w, /wp-content/uploads/2019/11/corona-vs-vray-interior-render-details-600x164.jpg 600w, /wp-content/uploads/2019/11/corona-vs-vray-interior-render-details-480x131.jpg 480w, /wp-content/uploads/2019/11/corona-vs-vray-interior-render-details-570x156.jpg 570w" sizes="(max-width: 900px) 100vw, 900px" /></p>
+<p><img src="/wp-content/uploads/2019/11/vray-vs-corona-interior-render-details.jpg" alt="بررسی دقیق‌تر نمونه رندر ویری" class="wp-image-5939 size-full" width="900" height="246" srcset="/wp-content/uploads/2019/11/vray-vs-corona-interior-render-details.jpg 900w, /wp-content/uploads/2019/11/vray-vs-corona-interior-render-details-300x82.jpg 300w, /wp-content/uploads/2019/11/vray-vs-corona-interior-render-details-768x210.jpg 768w, /wp-content/uploads/2019/11/vray-vs-corona-interior-render-details-870x238.jpg 870w, /wp-content/uploads/2019/11/vray-vs-corona-interior-render-details-600x164.jpg 600w, /wp-content/uploads/2019/11/vray-vs-corona-interior-render-details-480x131.jpg 480w, /wp-content/uploads/2019/11/vray-vs-corona-interior-render-details-570x156.jpg 570w" sizes="(max-width: 900px) 100vw, 900px" /></p>
+<p style="text-align: justify;">ویری رندر تمیزتری رو گرفته ولی رندر کرونا <span class="st"><span dir="rtl">جزئیات </span></span>GI خیلی بیشتری رو داره، یه نگاه به فرش یا چین و چروکای آبجکت‌های دیگه‌ی تو صحنه بندازید، به راحتی کرونا مجال رو می‌بره ولی خب خیلی رندر کرونا یکم نویز داره و یکی دو ساعتی واسه از بین بردن نویزهای صحنه باید وقت گذاشت.</p>
+<h2 style="text-align: justify;">نتیجه‌گیری:</h2>
+<p style="text-align: justify;">ویری سلطان بدون شک موتورای رندره، تعداد بسیار زیادی آموزش و مدل آماده‌ی رندر و کتاب‌خانه متریال واسش وجود داره، ویری گزینه‌های فوق‌العاده زیادی واسه گرفتن یه رندر داره که اگه اونا رو بلد باشین، ویری به راحتی می‌تونه کرونا رو شکست بده، البته توی زمینه‌ی <span class="st"><span dir="rtl">جزئیات </span></span>GI کرونا یه قدم جلوتره. رندر با روش Unbiased/Brute Force توی ویری کندتر از کروناس. ویری امکان رندر با جی‌پی‌یو رو هم داره که می‌تونه در آینده باعث خیلی تغییرات بشه. ویری قدرتمندتره و بیشتر به درد کاربرای حرفه‌ی می‌خوره و البته از لحاظ قیمت هم، ویری خیلی گرون‌تره.</p>
+<p style="text-align: justify;">اگه بخواید از روش <span jsslot=""><span data-dobid="hdw">Unbiased</span></span> واسه رندر گرفتن استفاده کنید، کرونا خیلی سریع‌تر رندر می‌گیره، کرونا خیلی ساده‌تره و با اطلاعات و دانش کمتر، رندرای به نسبت خوبی با استفاده ازش می‌شه گرفت. تیم توسعه‌ی انجین کرونا برای اضافه کردن قابلیت‌های جدید، به صورت پیوسته بروزرسانی ارائه می‌ده. این مطلب نتیجه‌ی مقایسه دو رندر داخلیه و ممکنه نتیجه برای حالت‌های دیگه متفاوت باشه. می‌شه گفت که همه‌چی به خودتون بستگی داره، اگه می‌خواید یه رندر با کیفیت قابل قبول و سریع و یه جورایی با دردسر کم‌تر بگیرید، قطعاً کرونا گزینه‌ی منطقی‌تریه و ولی اگه می‌خواید یه رندر فوق‌العاده طبیعی و حرفه‌ای بگیرید، باید سراغ انجین قدرتمند کیوس گروپ یعنی ویری برید.</p>
+<p>The post <a rel="nofollow" href="/%d8%a7%d9%86%d8%ac%db%8c%d9%86%e2%80%8c%d9%87%d8%a7/%d9%85%d9%88%d8%aa%d9%88%d8%b1-%d8%b1%d9%86%d8%af%d8%b1-%da%a9%d8%b1%d9%88%d9%86%d8%a7-%d8%a8%d9%87%d8%aa%d8%b1%d9%87-%db%8c%d8%a7-%d9%88%db%8c%d8%b1%db%8c%d8%9f/">موتور رندر کرونا بهتره یا ویری؟ مقایسه‌ی رندرهای داخلی</a> appeared first on <a rel="nofollow" href="/">ورتکس دیزاین</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/%d8%a7%d9%86%d8%ac%db%8c%d9%86%e2%80%8c%d9%87%d8%a7/%d9%85%d9%88%d8%aa%d9%88%d8%b1-%d8%b1%d9%86%d8%af%d8%b1-%da%a9%d8%b1%d9%88%d9%86%d8%a7-%d8%a8%d9%87%d8%aa%d8%b1%d9%87-%db%8c%d8%a7-%d9%88%db%8c%d8%b1%db%8c%d8%9f/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

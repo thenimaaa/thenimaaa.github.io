@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>بررسی پلاگین وراس رویت &#8211; ورتکس دیزاین</title>
+	<atom:link href="/tag/%D8%A8%D8%B1%D8%B1%D8%B3%DB%8C-%D9%BE%D9%84%D8%A7%DA%AF%DB%8C%D9%86-%D9%88%D8%B1%D8%A7%D8%B3-%D8%B1%D9%88%DB%8C%D8%AA/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>نقطه‌ی اوج طراحی</description>
+	<lastBuildDate>Fri, 01 Aug 2025 04:26:09 +0000</lastBuildDate>
+	<language>fa-IR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.11</generator>
+	<item>
+		<title>نگاهی به EvolveLab Veras، افزونه رندر مبتنی بر هوش مصنوعی Revit</title>
+		<link>/%d9%87%d9%88%d8%b4-%d9%85%d8%b5%d9%86%d9%88%d8%b9%db%8c/veras-%d8%b1%d9%86%d8%af%d8%b1-%d9%85%d8%a8%d8%aa%d9%86%db%8c-%d8%a8%d8%b1-%d9%87%d9%88%d8%b4-%d9%85%d8%b5%d9%86%d9%88%d8%b9%db%8c/</link>
+					<comments>/%d9%87%d9%88%d8%b4-%d9%85%d8%b5%d9%86%d9%88%d8%b9%db%8c/veras-%d8%b1%d9%86%d8%af%d8%b1-%d9%85%d8%a8%d8%aa%d9%86%db%8c-%d8%a8%d8%b1-%d9%87%d9%88%d8%b4-%d9%85%d8%b5%d9%86%d9%88%d8%b9%db%8c/?#comments</comments>
+		
+		<dc:creator><![CDATA[TheNima]]></dc:creator>
+		<pubDate>Sun, 05 Feb 2023 20:51:10 +0000</pubDate>
+				<category><![CDATA[معماری]]></category>
+		<category><![CDATA[هوش مصنوعی]]></category>
+		<category><![CDATA[AI در معماری]]></category>
+		<category><![CDATA[ابزارهای رندر مبتنی بر هوش مصنوعی]]></category>
+		<category><![CDATA[بررسی EvolveLab Veras]]></category>
+		<category><![CDATA[بررسی پلاگین وراس رویت]]></category>
+		<category><![CDATA[پلاگین Veras]]></category>
+		<category><![CDATA[رندر با AI]]></category>
+		<category><![CDATA[رندر با هوش مصنوعی]]></category>
+		<category><![CDATA[معرفی EvolveLab Veras]]></category>
+		<category><![CDATA[هوش مصنوعی در طراحی معماری]]></category>
+		<guid isPermaLink="false">/?p=6784</guid>
+
+					<description><![CDATA[<p>The post <a rel="nofollow" href="/%d9%87%d9%88%d8%b4-%d9%85%d8%b5%d9%86%d9%88%d8%b9%db%8c/veras-%d8%b1%d9%86%d8%af%d8%b1-%d9%85%d8%a8%d8%aa%d9%86%db%8c-%d8%a8%d8%b1-%d9%87%d9%88%d8%b4-%d9%85%d8%b5%d9%86%d9%88%d8%b9%db%8c/">نگاهی به EvolveLab Veras، افزونه رندر مبتنی بر هوش مصنوعی Revit</a> appeared first on <a rel="nofollow" href="/">ورتکس دیزاین</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p style="text-align: justify;">ابزارهایی مانند <a href="https://midjourney.com/" target="_blank" rel="noopener noreferrer">Midjourney</a> و <a href="https://openai.com/dall-e-2" target="_blank" rel="noopener noreferrer">DALL-E</a> می‌توانند آثار هنری شگفت‌انگیزی را با استفاده از هوش مصنوعی ایجاد کنند، اما خروجی این ابزارها تنها یک تصویر است، <a href="https://www.evolvelab.io/veras">EvolveLab Veras</a> به عنوان اولین ابزار رندر مبتنی بر هوش مصنوعی برای مدل‌های BIM ایجاد شده در نرم‌افزار Revit، کار متفاوت و پیچیده‌تری را انجام می‌دهد.</p>
+<p><span id="more-6784"></span></p>
+<h3 style="text-align: justify;">تاثیر هوش مصنوعی بر AEC:</h3>
+<p style="text-align: justify;">هوش مصنوعی در حال ورود به بازار AEC (معماری، مهندسی و ساخت و ساز) است و تمام زمینه‌های طراحی آن را تحت تاثیر قرار خواهد داد. تا به حال، ابزارهای ایجاد تصویر مانند DALL-E و Midjourney و ربات متنی <a href="https://chat.openai.com/chat" target="_blank" rel="noopener noreferrer">ChatGPT</a>، به وضوح توجه عموم مردم را به خود جلب کرده‌ است، اما چیزهای بیشتری در راه است، در واقع هم‌اکنون هم هوش مصنوعی طیف وسیعی از فعالیت‌های خلاقانه را خودکار انجام می‌دهد و هنگامی که به خوبی از آن استفاده می‌شود، نتایج آن چیزی شبیه به جادو به نظر می‌رسد.</p>
+<p style="text-align: justify;">در AEC شاهد آزمایش متخصصان با تصویرسازی مفهومی و حتی چیره‌دستی در طراحی از طریق چرخه تکرار بوده‌ایم. به عنوان نمونه، کارهای <a href="https://www.hsnrgb.com/" target="_blank" rel="noopener noreferrer">Hassan Ragab</a> با استفاده از Midjourney، قدرت هوش مصنوعی را به عنوان ابزاری برای کاوش در معماری به خوبی نشان می‌دهد. اما تا به حال بسیاری از این آزمایش‌ها در زمینه‌ی طرح‌های مفهومی متمرکز بوده‌اند، چگونه می‌توان این فناوری را بر مدل‌های سه‌بعدی اعمال کرد؟</p>
+<figure id="attachment_6790" aria-describedby="caption-attachment-6790" style="width: 1060px" class="wp-caption aligncenter"><img src="/wp-content/uploads/2023/02/hsnrgb.jpg" alt="دو اثر از Hassan Ragab با استفاده از Midjourney" class="wp-image-6790 size-full" width="1060" height="719" srcset="/wp-content/uploads/2023/02/hsnrgb.jpg 1060w, /wp-content/uploads/2023/02/hsnrgb-300x203.jpg 300w, /wp-content/uploads/2023/02/hsnrgb-1024x695.jpg 1024w, /wp-content/uploads/2023/02/hsnrgb-768x521.jpg 768w, /wp-content/uploads/2023/02/hsnrgb-870x590.jpg 870w, /wp-content/uploads/2023/02/hsnrgb-600x407.jpg 600w, /wp-content/uploads/2023/02/hsnrgb-480x326.jpg 480w" sizes="(max-width: 1060px) 100vw, 1060px" /><figcaption id="caption-attachment-6790" class="wp-caption-text">دو اثر از Hassan Ragab با استفاده از Midjourney</figcaption></figure>
+<h3>معرفی افزونه Veras:</h3>
+<p style="text-align: justify;">EvolveLab معتقد است که پاسخی برای این پرسش در قالب Veras دارد، یک افزونه مبتنی بر هوش مصنوعی که در نسخه 2019 به بالای نرم‌افزار Revit قابل استفاده است.<br />
+Veras از مدل سه‌بعدی به عنوان زیرلایه و اساسی برای طراحی استفاده می‌کند که به روی آن افزودنی‌هایی بر اساس متن ورودی اعمال می‌شود. ساخت نسخه‌ی مخصوص SketchUp و Rhino این افزونه در برنامه کاری EvolveLab قرار دارد. (بروزرسانی: وراس حالا SketchUp و Rhino را هم پشتیبانی می‌کند، علاوه بر این‌ها، Autodesk Forma هم به لیست نرم‌افزارهای سازگار با این افزونه اضافه شده است.) دانلود این افزونه (پست پین شده کانال)، در <a href="https://t.me/+1_tnEV__Ma4xZjFk" target="_blank" rel="noopener noreferrer">کانال تلگرام ورتکس دیزاین</a>.</p>
+<figure id="attachment_6785" aria-describedby="caption-attachment-6785" style="width: 1400px" class="wp-caption aligncenter"><img src="/wp-content/uploads/2023/02/Veras-official-renders.jpg" alt="صحنه‌ای در نرم‌افزار رویت و رندرهای آن با استفاده از Veras" class="wp-image-6785 size-full" width="1400" height="814" srcset="/wp-content/uploads/2023/02/Veras-official-renders.jpg 1400w, /wp-content/uploads/2023/02/Veras-official-renders-300x174.jpg 300w, /wp-content/uploads/2023/02/Veras-official-renders-1024x595.jpg 1024w, /wp-content/uploads/2023/02/Veras-official-renders-768x447.jpg 768w, /wp-content/uploads/2023/02/Veras-official-renders-870x506.jpg 870w, /wp-content/uploads/2023/02/Veras-official-renders-600x349.jpg 600w, /wp-content/uploads/2023/02/Veras-official-renders-480x279.jpg 480w" sizes="(max-width: 1400px) 100vw, 1400px" /><figcaption id="caption-attachment-6785" class="wp-caption-text">صحنه‌ای در نرم‌افزار رویت و رندرهای آن با استفاده از Veras</figcaption></figure>
+<h3><strong>محدودیت‌های کنترل‌پذیر:</strong></h3>
+<p style="text-align: justify;">هندسه‌ی مدل‌ها به هوش مصنوعی Veras یک محدودیت سه‌بعدی می‌دهد که کنترل آن در ابزارهای هوش مصنوعی دوبعدی دشوار است. این افزونه شکل و حجم ساختمان را بیش از حد تغییر نمی‌دهد و در تغییر مصالح، محیط و زمان روز به طور شگفت‌انگیزی سریع است.</p>
+<p style="text-align: justify;">پلاگین Veras، وقتی بهترین نتیجه را می‌دهد که دید صحنه به صورت پرسپکتیو باشد. همین‌طور بهتر است حالت Graphic Display رویت، روی گزینه‌ی Show Edges، و همین‌طور حالت سایه‌ها روی Cast باشد.</p>
+<p style="text-align: justify;">در پنجره‌ی رندر Veras، اسلایدری برای کنترل میزان خلاقیت و اسلایدر دیگری برای کنترل میزان استایل خروجی وجود دارد، علاوه بر این‌ها، گزینه‌هایی برای تنظیم رزولوشن عرض رندر و تعداد رندر مورد نیاز نیز در نظر گرفته شده است. هرچه‌قدر اسلایدر میزان خلاقیت بالاتر باشد، هوش مصنوعی چیزهای بیشتری را جایگزین آن‌چه در صحنه رویت است خواهد کرد. اسلایدر میزان استایل، پایبندی هوش مصنوعی به متن ورودی را کنترل می‌کند.</p>
+<p style="text-align: justify;">گزینه‌ی دیگری هم به هوش مصنوعی کمک می‌کند تا بداند که آیا با یک رندر داخلی سر و کار دارد یا یک رندر خارجی. وجود یا عدم وجود طبیعت، اتمسفر صحنه (مثلا وجود مه) و این‌<span>که آیا صحنه از نمای هوایی است یا خیر هم برای هوش مصنوعی قابل تعیین است. </span>برای کنترل نما، کاربر نمای پرسپکتیو را در Revit<span> تغییر می‌دهد و سپس باید پنجره </span>Veras<span> را به‌روزرسانی کند. رندرهای </span>Veras<span> در محل پیش‌فرض افزونه ذخیره می‌شود.</span></p>
+<p style="text-align: justify;">تنها ورودی دیگر پنجره رندر Veras، محلی برای نوشتن یک متن است. در این قسمت می‌توانید توضیحی درباره آن‌چه که می‌خواهید ایجاد کنید با مشخص کردن طیف وسیعی از مصالح (مانند: مصالح طبیعی و&#8230;)، انواع کف‌سازی (مرمر و&#8230;)، شب یا روز بودن صحنه رندر، انواع شیشه‌کاری، محیط، سبک (مانند: کابین چوبی، بتنی مدرن، مسکونی یا اداری) و&#8230; بنویسید. با یک توضیح متنی مشخص و ثابت، کاربران می‌توانند اسلایدرهای میزان خلاقیت و استایل را تغییر دهند و هر بار نتیجه‌ی متفاوت و معمولاً بسیار واقع‌گرایانه‌ای را با کمترین دردسر ممکن بگیرند.</p>
+<figure id="attachment_6805" aria-describedby="caption-attachment-6805" style="width: 1260px" class="wp-caption aligncenter"><img src="/wp-content/uploads/2023/02/Veras-1.jpg" alt="صفحه رندر افزونه Veras در نرم‌افزار Revit" class="wp-image-6805 size-full" width="1260" height="832" srcset="/wp-content/uploads/2023/02/Veras-1.jpg 1260w, /wp-content/uploads/2023/02/Veras-1-300x198.jpg 300w, /wp-content/uploads/2023/02/Veras-1-1024x676.jpg 1024w, /wp-content/uploads/2023/02/Veras-1-768x507.jpg 768w, /wp-content/uploads/2023/02/Veras-1-870x574.jpg 870w, /wp-content/uploads/2023/02/Veras-1-600x396.jpg 600w, /wp-content/uploads/2023/02/Veras-1-480x317.jpg 480w" sizes="(max-width: 1260px) 100vw, 1260px" /><figcaption id="caption-attachment-6805" class="wp-caption-text">صفحه رندر افزونه Veras در نرم‌افزار Revit</figcaption></figure>
+<h3>آینده Veras و استفاده از ابزارهای رندر مبتنی بر هوش مصنوعی:</h3>
+<p style="text-align: justify;">استفاده از Veras، یک راه عالی برای دیدن مدل معماری طراحی شده، در مصالح و سبک‌های مختلف در مدت زمان بسیار کوتاه است. ممکن است که نتیجه همیشه مطابق میل شما نباشد، اما با تغییر کلمه ورودی یا میزان اسلایدرها، ظاهر و احساسی کاملاً متفاوت دریافت خواهید کرد. و اگر  نتیجه یک رندر را دوست دارید، می‌توانید نمای پرسپکتیو را تغییر دهید و خروجی مشابه‌ای از دید دیگری بگیرید، اگرچه تفاوت‌هایی میان نحوه جای‌گیری مپ متریال‌ها در زاویه‌های مختلف وجود دارد.</p>
+<p style="text-align: justify;">ابزار رندر وراس، یک گام چشم‌گیر برای آغاز استفاده از ابزار‌های رندر مبتنی بر هوش مصنوعی است، وراس به معنی واقعی کلمه خیره‌کننده است و به طرز محسوسی کاربردی‌تر از تولیدکننده‌های عکس دوبعدی است و به خوبی در چارچوب اصلی هندسه معماری عمل می‌کند. رندرهای وراس فراتر از طرح‌های مفهومی است، اما از آن‌جا که هنوز وابستگی زیادی به تصادفی بودن هوش مصنوعی دارد، استفاده مستقیم از آن ممکن است پروژه را در مراحل بعدی طراحی با مشکل مواجه کند، اما نتایجی که ارائه می‌دهد مطمئناً می‌تواند الهام‌بخش جهت‌گیری‌های طراحی و انتخاب مصالح باشد.</p>
+<figure id="attachment_6810" aria-describedby="caption-attachment-6810" style="width: 1261px" class="wp-caption aligncenter"><img src="/wp-content/uploads/2023/02/Veras-official-renders-a1.jpg" alt="صحنه‌ای در نرم‌افزار رویت و رندرهای آن با استفاده از Veras" class="wp-image-6810 size-full" width="1261" height="1225" srcset="/wp-content/uploads/2023/02/Veras-official-renders-a1.jpg 1261w, /wp-content/uploads/2023/02/Veras-official-renders-a1-300x291.jpg 300w, /wp-content/uploads/2023/02/Veras-official-renders-a1-1024x995.jpg 1024w, /wp-content/uploads/2023/02/Veras-official-renders-a1-768x746.jpg 768w, /wp-content/uploads/2023/02/Veras-official-renders-a1-870x845.jpg 870w, /wp-content/uploads/2023/02/Veras-official-renders-a1-600x583.jpg 600w, /wp-content/uploads/2023/02/Veras-official-renders-a1-480x466.jpg 480w, /wp-content/uploads/2023/02/Veras-official-renders-a1-670x650.jpg 670w" sizes="(max-width: 1261px) 100vw, 1261px" /><figcaption id="caption-attachment-6810" class="wp-caption-text">صحنه‌ای در نرم‌افزار رویت و رندرهای آن با استفاده از Veras</figcaption></figure>
+<p style="text-align: justify;">وراس در مواردی آزادی عمل را از ما می‌گیرد، به عنوان نمونه، رندر گرفتن چیزهایی که ممکن است در طرح اصلی نباشند و یا نشان دادن خلاقیت بیش از حد در شیشه‌کاری! با این حال، من معتقدم که وراس ابزاری می‌شود که بسیاری از پروژه‌ها را در مسیرهای جدید و جالبی قرار خواهد داد.</p>
+<p style="text-align: justify;">Veras می‌تواند تصاویر بسیار چشم‌گیر واقع‌گرایانه‌ای ایجاد کند، چیزی که می‌تواند در ارائه به مشتریان مفید باشد. هم‌چنین می‌تواند مصالح مختلف را به طرز فوق‌العاده‌ای به طرح معماری اعمال کند، اما برای به دست آوردن بهترین نتایج، مانند همه نرم‌افزارها نیاز به کسب تجربه دارد تا کاربر با نحوه فرمان‌پذیری آن از ورودی‌ها آشنا شود.</p>
+<p style="text-align: justify;">با پیشرفت ابزارهای هوش مصنوعی، از عمیق‌تر شدن یادگیریِ تصاویر و ورودی‌ها به صورت انبوه گرفته تا امکان آموزش هوش مصنوعی آن با استفاده از تصاویر و طراحی‌های خود کاربران، قابل پیش‌بینی است که ابزارهای هوش مصنوعی مانند Veras روز به روز برای شرکت‌ها مهم‌تر می شوند و در عین حال، نتایج آن‌ها قابل کنترل‌تر خواهند شد.</p>
+<p style="text-align: justify;">در حال حاضر، ورودی‌های متنی این افزونه بسیار عمومی و کلی هستند، هرچه این ورودی‌ها خاص‌تر باشند، مشخصات مورد نظر طراح را می‌توان با وفاداری بیشتری بازتولید کرد. در هر صورت، این فن‌آوری پیامدهای زیادی برای طراحان و شبیه‌سازی معماری دارد، این شروع یک انقلاب است.<em><strong></strong></em></p>
+<h6>بروزرسانی 1403/12/01:</h6>
+<p style="text-align: justify;">شرکت Chaos، شرکت سازنده Veras را خریداری کرد! توسعه دهنده V-Ray و Enscape، شرکت Chaos، با خرید EvolveLab، تکنولوژی ارزشمند هوش مصنوعی در زمینه‌ی ویژوالیزیشن را به‌دست خواهد آورد. این موضوع فرصت‌های جدیدی را در نرم‌افزارهای طراحی صنعت معماری، مهندسی و ساخت و ساز (AEC) ایجاد خواهد کرد.</p>
+<p>دانلود این افزونه (پست پین شده کانال!)، در <a href="https://t.me/+67kf4y7uVvliZjU0" target="_blank" rel="noopener noreferrer">کانال تلگرام ورتکس دیزاین</a>.</p>
+<div aria-live="polite" class="dePhmb" jsaction="copy:zVnXqd;" jsname="r5xl4">
+<div class="eyKpYb" data-language="fa" data-original-language="en" data-result-index="0" jsaction="rcuQ6b:uniPq;agoMJf:uniPq;d3Xgce:uniPq;PAwimb:fO5Jj;YMDPBc:IPcVpf;zimBkd:psubsc,xEIEwf,vvaHqf,Mw7EEb,bfSYBe,xdbiQe,Omr8vc,aVxZJe;cJuFmb:inBH1e;ZpeCNe:B59DSc;bA9BVe:NTHvjd,G7JiR;yZ6OX:TWxCtb;EKmdBc:g1rTCe; dblclick:wgdrZd" jscontroller="UmyLh" jsdata="Rd7LAc;_;$156" jsmodel="d6pv6c">
+<div style="text-align: justify;">غالب این نوشتار برگرفته از وب‌سایت <a href="https://aecmag.com/" target="_blank" rel="noopener noreferrer">aecmag</a> است؛ نکات اضافی و بروزرسانی و اصلاح متن هنگام برگردان به فارسی، توسط ورتکس‌دیزاین انجام شده است. کپی‌رایت تصاویر متعلق به Hassan Ragab ،EvolveLab و <a href="https://www.youtube.com/@DesignGoBrr" target="_blank" rel="noopener noreferrer">Gediminas Kirdeikis</a> است.</div>
+</div>
+</div>
+<p>The post <a rel="nofollow" href="/%d9%87%d9%88%d8%b4-%d9%85%d8%b5%d9%86%d9%88%d8%b9%db%8c/veras-%d8%b1%d9%86%d8%af%d8%b1-%d9%85%d8%a8%d8%aa%d9%86%db%8c-%d8%a8%d8%b1-%d9%87%d9%88%d8%b4-%d9%85%d8%b5%d9%86%d9%88%d8%b9%db%8c/">نگاهی به EvolveLab Veras، افزونه رندر مبتنی بر هوش مصنوعی Revit</a> appeared first on <a rel="nofollow" href="/">ورتکس دیزاین</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/%d9%87%d9%88%d8%b4-%d9%85%d8%b5%d9%86%d9%88%d8%b9%db%8c/veras-%d8%b1%d9%86%d8%af%d8%b1-%d9%85%d8%a8%d8%aa%d9%86%db%8c-%d8%a8%d8%b1-%d9%87%d9%88%d8%b4-%d9%85%d8%b5%d9%86%d9%88%d8%b9%db%8c/feed/</wfw:commentRss>
+			<slash:comments>8</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

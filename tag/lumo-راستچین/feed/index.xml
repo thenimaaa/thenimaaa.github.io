@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Lumo راستچین &#8211; ورتکس دیزاین</title>
+	<atom:link href="/tag/lumo-%D8%B1%D8%A7%D8%B3%D8%AA%DA%86%DB%8C%D9%86/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>نقطه‌ی اوج طراحی</description>
+	<lastBuildDate>Fri, 25 Jul 2025 06:54:43 +0000</lastBuildDate>
+	<language>fa-IR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.11</generator>
+	<item>
+		<title>RTL Chatbot Companion، اکستنشن پشتیبانی RTL چت‌بات‌های AI</title>
+		<link>/%d8%a7%d8%a8%d8%b2%d8%a7%d8%b1%d9%87%d8%a7/rtl-chatbot-companion/</link>
+					<comments>/%d8%a7%d8%a8%d8%b2%d8%a7%d8%b1%d9%87%d8%a7/rtl-chatbot-companion/?#respond</comments>
+		
+		<dc:creator><![CDATA[TheNima]]></dc:creator>
+		<pubDate>Tue, 18 Feb 2025 15:40:21 +0000</pubDate>
+				<category><![CDATA[ابزارها]]></category>
+		<category><![CDATA[هوش مصنوعی]]></category>
+		<category><![CDATA[Lumo راستچین]]></category>
+		<category><![CDATA[افزونه راست چین فایرفاکس و کروم]]></category>
+		<category><![CDATA[اکستنشن راست‌چین چت‌بات]]></category>
+		<category><![CDATA[پشتیبانی فارسی چت بات‌ها]]></category>
+		<category><![CDATA[تغییر فونت چت بات ها]]></category>
+		<category><![CDATA[تغییر فونت چت جی پی تی]]></category>
+		<category><![CDATA[راستچین چت بات]]></category>
+		<category><![CDATA[راستچین چت جی پی تی]]></category>
+		<category><![CDATA[راستچین کردن ChatGPT]]></category>
+		<category><![CDATA[راستچین کردن Deep Seek]]></category>
+		<category><![CDATA[راستچین کردن Duck AI]]></category>
+		<category><![CDATA[راستچین کردن QwenLM]]></category>
+		<category><![CDATA[راستچین کردن چت جی پی تی]]></category>
+		<category><![CDATA[راستچین کردن دیپ سیک]]></category>
+		<guid isPermaLink="false">/?p=6942</guid>
+
+					<description><![CDATA[<p>The post <a rel="nofollow" href="/%d8%a7%d8%a8%d8%b2%d8%a7%d8%b1%d9%87%d8%a7/rtl-chatbot-companion/">RTL Chatbot Companion، اکستنشن پشتیبانی RTL چت‌بات‌های AI</a> appeared first on <a rel="nofollow" href="/">ورتکس دیزاین</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p style="text-align: justify;">همان‌طور که می‌دانید، زبان فارسی و عربی از راست به چپ نوشته می‌شوند، پشتیبانی رسمی این جهت نوشتن در بیشتر چت‌بات‌های هوش مصنوعی وجود ندارد. ورتکس‌دیزاین افزونه RTL Chatbot Companion را برای مرورگر فایرفاکس و مرورگرهای با هسته‌ی کرومیوم طراحی کرده است که علاوه بر اصلاح جهت نمایش نوشته‌ها، <strong>فونت استعداد</strong> را جایگزین فونت پیش‌فرض چت‌بات‌ها می‌کند.</p>
+<p style="text-align: justify;"><span id="more-6942"></span></p>
+<p><img src="/wp-content/uploads/2025/02/rtl.png" alt="" width="691" height="470" class="aligncenter wp-image-7009" srcset="/wp-content/uploads/2025/02/rtl.png 778w, /wp-content/uploads/2025/02/rtl-300x204.png 300w, /wp-content/uploads/2025/02/rtl-768x522.png 768w, /wp-content/uploads/2025/02/rtl-600x408.png 600w, /wp-content/uploads/2025/02/rtl-480x326.png 480w" sizes="(max-width: 691px) 100vw, 691px" /></p>
+<p style="text-align: justify;">این افزونه به صورت خودکار نوشته‌های فارسی، عربی و دیگر زبان‌های RTL را شناسایی و راست‌چین می‌کند و نوشته‌های دیگر زبان‌ها بدون تغییر باقی می‌مانند. در حال حاضر چت‌بات‌های Lumo ،DeepSeek ،Qwen ،POE ،Mistral AI ،Duck AI ،ChatGPT ،Copilot و Grok پشتیبانی می‌شوند. برای نصب افزونه در موزیلا فایرفاکس، گوگل کروم و مایکروسافت اج، مراحل زیر را دنبال کنید:</p>
+<p>&nbsp;</p>
+<hr />
+<div class="ucB71mHYvyHsWKjYfYKI">
+<div class="DDjJOsxcW6f8fPcDWaJx">
+<div class="JrWQJZIYGnawLoKSzZsO">
+<div class="VrBPSncUavA1d7C9kAc5">
+<h6>نصب از Firefox Add-ons:</h6>
+<p>۱. فایرفاکس را باز کنید.<br />
+۲. به لینک روبرو مراجعه کنید: <a href="https://addons.mozilla.org/en-US/firefox/addon/rtl-chatbot-companion/" target="_blank" rel="noopener noreferrer">RTL Chatbot Companion</a>.<br />
+۳. روی دکمه «Add to Firefox» کلیک کنید.<br />
+۴. با کلیک بر روی «Add» در پنجره پاپ‌آپ، نصب را تأیید کنید.</p>
+<h6>نصب دستی افزونه در فایرفاکس:</h6>
+<p>۱. فایل xpi افزونه را از <a href="https://github.com/thenimaaa/RTL-Chatbot-Companion/releases/download/1.1.1/rtl_chatbot_companion-1.1.2.firefox.signed.xpi" target="_blank" rel="noopener noreferrer">مخزن گیت‌هاب افزونه RTL Chatbot Companion</a> دانلود کنید.<br />
+۲. فایرفاکس را باز کنید.<br />
+۳. روی دکمه منو (سه خط افقی) در گوشه بالا سمت راست کلیک کنید.<br />
+۴. «Add-ons and themes» را انتخاب کنید.<br />
+۵. روی آیکون چرخ‌دنده <img src="https://s.w.org/images/core/emoji/13.0.0/72x72/2699.png" alt="⚙" class="wp-smiley" style="height: 1em; max-height: 1em;" /> کلیک کرده و «Install Add-on From File» را انتخاب کنید.<br />
+۶. به محل دانلود فایل <a href="https://github.com/thenimaaa/RTL-Chatbot-Companion/releases/download/1.1.1/rtl_chatbot_companion-1.1.2.firefox.signed.xpi" rel="nofollow" data-turbo="false" data-view-component="true" class="Truncate"> <span data-view-component="true" class="Truncate-text text-bold">RTL.Chatbot.Companion_1.1.2.firefox.signed.xpi</span> <span data-view-component="true" class="Truncate-text"></span> </a> بروید و آن را برای نصب انتخاب و نصب را تایید کنید.</p>
+<hr />
+</div>
+</div>
+</div>
+<h6>نصب دستی افزونه در گوگل کروم:</h6>
+</div>
+<div class="ucB71mHYvyHsWKjYfYKI">
+<p>۱. فایل RTL.Chatbot.Companion_1.0.Chromium.unsigned.zip را از<a href="https://github.com/thenimaaa/RTL-Chatbot-Companion/releases/download/v1.0/RTL.Chatbot.Companion_1.0.Chromium.unsigned.zip"> مخزن گیت‌هاب افزونه RTL Chatbot Companion</a> دانلود کنید.<br />
+۲. مرورگر کروم را باز کنید.<br />
+3. روی دکمه منو، (سه نقطه عمودی) در گوشه بالا سمت راست کلیک کنید.<br />
+4. روی گزینه‌ی «Extensions» (افزونه‌ها) در این منو کلیک کنید.<br />
+5. پنجره افزونه‌ها باز می‌شود.<br />
+6. در صفحه افزونه‌ها، گزینه «Developer mode» یا «حالت توسعه‌دهنده» را فعال کنید.<br />
+7. به محل دانلود فایل RTL.Chatbot.Companion_1.0.Chromium.unsigned.zip بروید و فایل را به این صفحه کلیک و درگ کنید و نصب را تایید کنید.</p>
+<div class="ucB71mHYvyHsWKjYfYKI">
+<h6>نصب دستی افزونه در مایکروسافت اج:</h6>
+</div>
+<div class="ucB71mHYvyHsWKjYfYKI">
+<p>۱. فایل RTL.Chatbot.Companion_1.0.Chromium.unsigned.zip را از<a href="https://github.com/thenimaaa/RTL-Chatbot-Companion/releases/download/v1.0/RTL.Chatbot.Companion_1.0.Chromium.unsigned.zip"> مخزن گیت‌هاب افزونه RTL Chatbot Companion</a> دانلود کنید.<br />
+۲. مرورگر کروم را باز کنید.<br />
+3. روی دکمه منو، (سه نقطه افقی) در گوشه بالا سمت راست کلیک کنید.<br />
+4. روی گزینه‌ی «Extensions» (افزونه‌ها) در این منو کلیک کنید.<br />
+5. حال روی گزینه‌ی Manage extensions کلیک کنید.<br />
+6. پنجره افزونه‌ها باز می‌شود.<br />
+7. در صفحه افزونه‌ها، گزینه «Developer mode» یا «حالت توسعه‌دهنده» را فعال کنید.<br />
+8. به محل دانلود فایل RTL.Chatbot.Companion_1.0.Chromium.unsigned.zip بروید و فایل را به این صفحه کلیک و درگ کنید و نصب را تایید کنید.</p>
+<div class="ucB71mHYvyHsWKjYfYKI">
+<div class="DDjJOsxcW6f8fPcDWaJx">
+<div class="JrWQJZIYGnawLoKSzZsO">
+<div class="VrBPSncUavA1d7C9kAc5">
+<p>پس از نصب افزونه و با اضافه شدن آیکون مربوط به آن به نوار ابزار، شما می‌توانید با کلیک بر روی آن، تنظیمات افزونه رو مشاهده کنید.</p>
+<p>سورس‌کد این افزونه را می‌توانید در گیت‌هاب <a href="https://github.com/thenimaaa/RTL-Chatbot-Companion">TheNima </a> مشاهده کنید. برای دسترسی به آخرین اخبار و مطالب و ارتباط مستقیم با ما، <a href="https://t.me/+67kf4y7uVvliZjU0" target="_blank" rel="noopener noreferrer">کانال تلگرام ورتکس دیزاین</a> را دنبال کنید.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p>The post <a rel="nofollow" href="/%d8%a7%d8%a8%d8%b2%d8%a7%d8%b1%d9%87%d8%a7/rtl-chatbot-companion/">RTL Chatbot Companion، اکستنشن پشتیبانی RTL چت‌بات‌های AI</a> appeared first on <a rel="nofollow" href="/">ورتکس دیزاین</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/%d8%a7%d8%a8%d8%b2%d8%a7%d8%b1%d9%87%d8%a7/rtl-chatbot-companion/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
